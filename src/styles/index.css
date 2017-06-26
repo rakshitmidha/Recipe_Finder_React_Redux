@@ -1,0 +1,10 @@
+body {
+  text-align : center;
+  padding : 5%;
+  background-image: url('../assets/food.jpg');
+  background-repeat: none;
+  background-size: cover;
+  opacity: 0.8;
+  color: white;
+  font-family : monospace;
+}
